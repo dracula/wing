@@ -1,0 +1,100 @@
+default.fore: #f8f8f2
+default.back: 
+default.bold: 
+default.italic: 
+default.eolfilled: 
+commentline.fore: #6272a4
+commentline.back: 
+commentline.bold: 
+commentline.italic: 
+commentline.eolfilled: 
+number.fore: #8be9fd
+number.back: 
+number.bold: 
+number.italic: 
+number.eolfilled: 
+string.fore: #f1fa8c
+string.back: 
+string.bold: 
+string.italic: 
+string.eolfilled: 
+character.fore: #f1fa8c
+character.back: 
+character.bold: 
+character.italic: 
+character.eolfilled: 
+word.fore: #ff79c6
+word.back: 
+word.bold: 1
+word.italic: 
+word.eolfilled: 
+triple.fore: #f1fa8c
+triple.back: 
+triple.bold: 
+triple.italic: 
+triple.eolfilled: 
+tripledouble.fore: #f1fa8c
+tripledouble.back: 
+tripledouble.bold: 
+tripledouble.italic: 
+tripledouble.eolfilled: 
+classname.fore: #50fa7b
+classname.back: 
+classname.bold: 1
+classname.italic: 
+classname.eolfilled: 
+defname.fore: #50fa7b
+defname.back: 
+defname.bold: 1
+defname.italic: 
+defname.eolfilled: 
+operator.fore: #ffb86c
+operator.back: 
+operator.bold: 
+operator.italic: 
+operator.eolfilled: 
+identifier.fore: #f8f8f2
+identifier.back: 
+identifier.bold: 
+identifier.italic: 
+identifier.eolfilled: 
+commentblock.fore: #6272a4
+commentblock.back: 
+commentblock.bold: 
+commentblock.italic: 
+commentblock.eolfilled: 
+stringeol.fore: #ff5555
+stringeol.back: #ffb86c
+stringeol.bold: 
+stringeol.italic: 
+stringeol.eolfilled: 1
+word2.fore: #bd93f9
+word2.back: 
+word2.bold: 
+word2.italic: 
+word2.eolfilled: 
+decorator.fore: #bd93f9
+decorator.back: 
+decorator.bold: 
+decorator.italic: 
+decorator.eolfilled: 
+fstring.fore: #f1fa8c
+fstring.back: 
+fstring.bold: 
+fstring.italic: 
+fstring.eolfilled: 
+fcharacter.fore: #f1fa8c
+fcharacter.back: 
+fcharacter.bold: 
+fcharacter.italic: 
+fcharacter.eolfilled: 
+ftriple.fore: #f1fa8c
+ftriple.back: 
+ftriple.bold: 
+ftriple.italic: 
+ftriple.eolfilled: 
+ftripledouble.fore: #f1fa8c
+ftripledouble.back: 
+ftripledouble.bold: 
+ftripledouble.italic: 
+ftripledouble.eolfilled: 
