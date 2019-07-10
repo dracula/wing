@@ -5,7 +5,7 @@ Dracula theme for Wing Python IDE from https://wingware.com/
 
 ## Install
 
-### To use this theme with Wing 7 beta2+:
+### To use this theme with Wing 7+:
 
 In the User Interfaces preference page, select Dracula as the Color Palette 
 and check on the Use Color Palette Throughout the UI.
